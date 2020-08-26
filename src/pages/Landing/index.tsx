@@ -1,5 +1,6 @@
 import React from "react";
 
+import { Link } from "react-router-dom";
 import stydyIcon from "../../assets/inages/icons/study.svg";
 import giveClassesIcon from "../../assets/inages/icons/give-classes.svg";
 import purpleHeart from "../../assets/inages/icons/purple-heart.svg";
@@ -19,14 +20,14 @@ const Landing = () => {
 
         <img src={LandingImg} alt="" className="hero-image" />
         <div className="buttons-container">
-          <a href="/study" className="study">
+          <Link to="/study" className="study">
             <img src={stydyIcon} alt="estudar" />
             Estudar
-          </a>
-          <a href="/give-classes" className="give-classes">
+          </Link>
+          <Link to="/give-classes" className="give-classes">
             <img src={giveClassesIcon} alt="estudar" />
             Estudar
-          </a>
+          </Link>
         </div>
         <span className="total-connections">
           Total de 200 conexões já realizadas
