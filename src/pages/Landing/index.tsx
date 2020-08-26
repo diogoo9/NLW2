@@ -19,11 +19,11 @@ const Landing = () => {
 
         <img src={LandingImg} alt="" className="hero-image" />
         <div className="buttons-container">
-          <a href="" className="study">
+          <a href="/study" className="study">
             <img src={stydyIcon} alt="estudar" />
             Estudar
           </a>
-          <a href="" className="give-classes">
+          <a href="/give-classes" className="give-classes">
             <img src={giveClassesIcon} alt="estudar" />
             Estudar
           </a>
