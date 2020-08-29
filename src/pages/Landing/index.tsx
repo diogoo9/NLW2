@@ -21,11 +21,11 @@ const Landing = () => {
         <img src={LandingImg} alt="" className="hero-image" />
         <div className="buttons-container">
           <Link to="/study" className="study">
-            <img src={stydyIcon} alt="estudar" />
+            <img src={stydyIcon} alt="Estudar" />
             Estudar
           </Link>
           <Link to="/give-classes" className="give-classes">
-            <img src={giveClassesIcon} alt="estudar" />
+            <img src={giveClassesIcon} alt="Dar aula" />
             Estudar
           </Link>
         </div>

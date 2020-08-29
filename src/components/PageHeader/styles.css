@@ -17,7 +17,7 @@
 
 .page-header .top-bar-container  a {
     height: 3.2rem;
-    transition: opacity 0.2s;
+    transition: opacity 0.9s;
 }
 
 .page-header .top-bar-container  a:hover {
@@ -54,8 +54,8 @@
         flex: 1;
         max-width: 740px;
         margin: 0 auto;
-        display: flex;
         padding-bottom: 48px;
+        display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: flex-start;
@@ -64,5 +64,7 @@
     .page-header .header-content strong {
         max-width: 350px;
     }
+
+    
 
 }
