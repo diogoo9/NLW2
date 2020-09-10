@@ -2,14 +2,14 @@
 ## Next Level Week 2 - RocketSeat
 
 
-# PROFFY - Conectando estudantes com professores 
-    Aplicação desenvolvida na versão WEB, com o objetivo de conectar estudas com professores.
+# PROFFY  
+    Aplicação desenvolvida na versão WEB, com o objetivo de conectar estudantess com professores.
 
 # O que praticamos
  - Typescript
- - ReactJs
+ - ReactJs 
  - CSS (flexbox, grid)
- - React Router DOM
+ - React Router DOM (Links)
 
 # Execultando o projeto 
  ## Requisitos 
